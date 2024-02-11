@@ -25,3 +25,4 @@ networkx
 graphviz
 matplotlib
 
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
